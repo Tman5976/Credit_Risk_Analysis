@@ -2,9 +2,9 @@
 
 ## Overiew of Project
 
-This challenge tested our ability to use machine learning to assess credit data. We used various methods to create a model that predicts credit risk from our given dataset.
+This project aimed to to use machine learning to assess credit data. I used various methods to create a model that predicts credit risk from an exisiting dataset.
 
-We utilized RandomOversampling, SMOTE, RandomUndersampling, Randon Forst Classifier, and Easy Ensemble Classifier to create the different models.
+I utilized RandomOversampling, SMOTE, RandomUndersampling, Randon Forst Classifier, and Easy Ensemble Classifier to create the different models.
 
 The following report will display the returns of the models and discuss which would be the most accurate for determining credit risk.
 
